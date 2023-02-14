@@ -292,9 +292,11 @@ const Index = () => {
             </div>
             <br />
             <div className="col-4">
+            <br />
+              <br />
               <img
                 style={{
-                  width: "380px",
+                  width: "350px",
                   height: "600px",
                   objectPostion: "cover",
                 }}
