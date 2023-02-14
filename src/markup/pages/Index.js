@@ -296,8 +296,8 @@ const Index = () => {
               <br />
               <img
                 style={{
-                  width: "350px",
-                  height: "600px",
+                  width: "380px",
+                  height: "400px",
                   objectPostion: "cover",
                 }}
                 src={donateImage}
