@@ -291,7 +291,7 @@ const Index = () => {
               </div>
             </div>
             <br />
-            <div className="col-4">
+            <div className="col-lg-6">
             <br />
               <br />
               <img
