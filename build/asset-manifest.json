@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "./static/css/main.e37d4683.css",
-    "main.js": "./static/js/main.cedc1254.js",
+    "main.js": "./static/js/main.874e2eac.js",
     "static/media/index-2-hero-img.png": "./static/media/index-2-hero-img.869bc45c7d317f74edfb.png",
     "static/media/intro-bg.jpg": "./static/media/intro-bg.53287ab5dbf4c6b4fe80.jpg",
+    "static/media/boxing.png": "./static/media/boxing.430dad35167dafecb13f.png",
     "static/media/emir.jpg": "./static/media/emir.aadf5f9077b66a41efec.jpg",
     "static/media/fa-brands-400.svg": "./static/media/fa-brands-400.a58f7f4cdcc622e4db52.svg",
     "static/media/classic.jpg": "./static/media/classic.0d9c2b3eb4a9f83348cd.jpg",
@@ -30,7 +31,6 @@
     "static/media/testimonial-bg-3.jpg": "./static/media/testimonial-bg-3.6f9482300d6d4bff84d1.jpg",
     "static/media/blog-single-img-1-big.jpg": "./static/media/blog-single-img-1-big.43fa8b0021256b135d01.jpg",
     "static/media/testimonial-bg-1.jpg": "./static/media/testimonial-bg-1.25e6da8b93d45a09d924.jpg",
-    "static/media/donateimg.png": "./static/media/donateimg.b964fb094016f582a9f4.png",
     "static/media/index-2-hero-img-2.png": "./static/media/index-2-hero-img-2.08a2806154b1157073f7.png",
     "static/media/team-member-img-1.jpg": "./static/media/team-member-img-1.b54a2cc7b1039ac14b57.jpg",
     "static/media/team-member-img-10.jpg": "./static/media/team-member-img-10.b54a2cc7b1039ac14b57.jpg",
@@ -56,10 +56,10 @@
     "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.4e988e05601bf81ee2b0.woff2",
     "index.html": "./index.html",
     "main.e37d4683.css.map": "./static/css/main.e37d4683.css.map",
-    "main.cedc1254.js.map": "./static/js/main.cedc1254.js.map"
+    "main.874e2eac.js.map": "./static/js/main.874e2eac.js.map"
   },
   "entrypoints": [
     "static/css/main.e37d4683.css",
-    "static/js/main.cedc1254.js"
+    "static/js/main.874e2eac.js"
   ]
 }
