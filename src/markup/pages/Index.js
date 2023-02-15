@@ -18,7 +18,7 @@ import intro_bg from '../../assets/images/intro-bg.jpg';
 import donateImage from '../../assets/images/boxing.png';
 import classic from '../../assets/images/classic.jpg';
 import emir from '../../assets/images/emir.jpg';
-import morris from '../../assets/images/morris.JPG';
+import morris from '../../assets/images/morris.jpg';
 
 
 
