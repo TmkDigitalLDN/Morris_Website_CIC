@@ -216,7 +216,7 @@ const Header = () => {
               </Link>
             </li>
             <li className="menu-list">
-            <Link to="/contact">
+            <Link to="/">
               Work With Me
             </Link>
           </li>
