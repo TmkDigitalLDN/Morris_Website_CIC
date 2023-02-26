@@ -188,7 +188,7 @@ const Header = () => {
           <div className="navigation-inner">
             <div className="navigation-logo">
               <Link to="/">
-                <img src={logo} alt="Morris" />
+                <img src={logo} alt="Morris The Connector Logoe" />
               </Link>
             </div>
             <div className="navigation-menu">
