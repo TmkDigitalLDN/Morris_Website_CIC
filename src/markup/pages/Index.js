@@ -144,7 +144,7 @@ const Index = () => {
                             <h3 className="right-align">Morris The Connector</h3>
                             <p className="paragraph-lg c-grey">I wanted to take this time to let you know more about me, how I got to this point in my life and, more importantly, how I can use the skills I have learned to help you.</p>
 
-                            <p className="paragraph-lg c-grey">Like almost every single one of you reading this, my life has had its fair share of good times and bad. I’ve been blessed to have been able to revel in some incredible highlights, but they have also been interspersed with tragedy that would have broken many others. Trust me, it came close to breaking me too, but here I am.</p>
+                            <p className="paragraph-lg c-grey">Like almost every single one of you reading this, my life has had its fair share of good times and bad. I’ve been blessed to have been able to reveal in some incredible highlights, but they have also been interspersed with tragedy that would have broken many others. Trust me, it came close to breaking me too, but here I am.</p>
 
                             <p className="paragraph-lg c-grey">From growing up in the harsh inner city, I’ve known what it’s like to be down there looking up. From times when I’ve had absolutely nothing, I’ve worked hard. Eventually leading me to start up my own Executive chauffeur business working with clients that have included Floyd Mayweather, Beyonce, Justin Bieber and the late great Whitney Houston to name a few.</p>
                         </div>
@@ -294,11 +294,13 @@ const Index = () => {
             <div className="col-lg-6">
             <br />
               <br />
-              <img
+              <img className='grid'
                 style={{
-                  width: "330px",
-                  height: "340x",
+                marginTop: "40px",
+                  width: "650px",
+                  height: "650px",
                   objectPostion: "cover",
+                  borderRadius: '10px'
                 }}
                 src={donateImage}
                 alt="slider"

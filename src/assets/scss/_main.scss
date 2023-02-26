@@ -1,3 +1,8 @@
+
+
+
+
+
 /****************************************
 general
 ****************************************/
@@ -41,7 +46,7 @@ html {
 }
 
 body {
-    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
     
     overflow-x: hidden;
@@ -424,6 +429,7 @@ hero 2 section
     &-wrapper {
         position: relative;
         padding-top: 8.4rem;
+        margin-top: 100px;
         background-color: $primary-color-light-2;
         overflow: hidden;
         @media (max-width: 992px) {
@@ -432,6 +438,7 @@ hero 2 section
     }
 
     &-content {
+        line-height: 0.6;
         position: relative;
         z-index: 2;
         .button-group {

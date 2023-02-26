@@ -30,9 +30,17 @@ p {
     }
 }
 
+.menu-list{
+    font-size: 28px;
+   font-weight: 700;
+   
+}
+
 h1 {
     font-size: 6rem;
-    font-weight: 300;
+    font-weight: 700;
+    line-height: 0.8;
+    text-align: center;
     @media (max-width: 992px) {
         font-size: calc(4rem + (6 - 4) * ((100vw - 200px) / (992 - 200)));
         // line-height: calc(4.6rem + (6 - 4.6) * ((100vw - 200px) / (992 - 200)));
@@ -41,7 +49,9 @@ h1 {
 
 h2 {
     font-size: 4.4rem;
-    line-height: 6rem;
+    line-height: 0.8;
+    font-weight: 700;
+    text-align: center;
     @media (max-width: 992px) {
         font-size: calc(3rem + (4.4 - 3) * ((100vw - 200px) / (992 - 200)));
         line-height: calc(4.6rem + (6 - 4.6) * ((100vw - 200px) / (992 - 200)));
