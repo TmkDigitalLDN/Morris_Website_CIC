@@ -3,7 +3,7 @@ import Button from '@mui/material/Button';
 
 
 // react router dom
- /*import { Link } from 'react-router-dom';*/
+ import { Link } from 'react-router-dom';
 
 // sliders
 import TestimonialSlider from '../components/TestimonialSlider';
