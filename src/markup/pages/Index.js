@@ -294,11 +294,11 @@ const Index = () => {
             <div className="col-lg-6">
             <br />
               <br />
-              <img className='grid'
+              <img className="grid"
                 style={{
                 marginTop: "40px",
-                  width: "650px",
-                  height: "650px",
+                  maxWidth: "100%",
+                  height: "auto",
                   objectPostion: "cover",
                   borderRadius: '10px'
                 }}

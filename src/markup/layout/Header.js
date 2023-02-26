@@ -212,7 +212,7 @@ const Header = () => {
               </li>
               <li className="menu-list">
               <Link to="/">
-                Gallery
+                My Life
               </Link>
             </li>
             <li className="menu-list">
