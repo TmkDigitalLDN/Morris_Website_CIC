@@ -19,7 +19,7 @@ const App = () => {
 
 
   return (
-      <BrowserRouter basename="/home">
+      <BrowserRouter basename="/">
         <CustomScrollbar/>
         <Markup />
       </BrowserRouter>
