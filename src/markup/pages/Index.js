@@ -328,9 +328,8 @@ const Index = () => {
                     <div className="container page-bg-content">
                         <div className="row">
                         <div className="image-grid">
-                        {images.map((image, index) => (
-                          <img key={index} src={image.src} alt={image.alt} className="grid-image" />
-                        ))}
+                     
+                      
                       </div>
                         </div>
                     </div>
