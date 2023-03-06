@@ -1,7 +1,7 @@
 import React from 'react';
 
 // components
-import PageHeaderList from '../components/PageHeaderList';
+
 import CommentForm from '../components/CommentForm';
 import CommentSingle from '../components/CommentSingle';
 import Button from '../components/Button';

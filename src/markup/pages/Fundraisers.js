@@ -1,34 +1,19 @@
 import React from 'react';
 
-// react router dom
-import { Link } from 'react-router-dom';
 
 // components
-import PageHeaderList from '../components/PageHeaderList';
-import BlogSingle from '../components/BlogSingle';
-import SearchWidget from '../components/SearchWidget';
-import CategoryWidget from '../components/CategoryWidget';
+
 import donateImage from "../../assets/images/boxing.png";
 import Button from "@mui/material/Button";
 
-// images
-import blog_single_1 from '../../assets/images/boxing.png';
 
 
-import pattern1 from '../../assets/images/patterns/pattern.png';
-import page_bg from '../../assets/images/patterns/pattern-4.png';
+
+
 
 const Fundraisers = () => {
 
-    const blog = [
-        {
-            title: 'Morris The Connector - Growth Mindset Fundraiser.',
-            excerpt: 'On December 20, 2019, Congress passed the Tax Cuts and Jobs Act. This is the largest tax overhaul since 1986. There will be significant changes to the tax law, most of which take effect on January 1st, 2018. Below is a summary of the changes. Individual Taxes Tax Brackets: All tax brackets are reduced, with the top',
-            image: blog_single_1,
-            to: '/mind-reset'
-        },
- 
-    ];
+
 
     return (
         <>
