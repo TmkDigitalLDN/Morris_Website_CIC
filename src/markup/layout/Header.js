@@ -26,10 +26,10 @@ function Header() {
         <Link to={"/fundraisers"} onClick={toggleMenu}>
           Fundraisers
         </Link>
-		<Link to={"/my-life"} onClick={toggleMenu}>
+		<Link to={"#"} onClick={toggleMenu}>
 		My Life
 	  </Link>
-	  <Link to={"/my-life"} onClick={toggleMenu}>
+	  <Link to={"#"} onClick={toggleMenu}>
 	  Contact
 	</Link>
 
