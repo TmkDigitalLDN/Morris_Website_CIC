@@ -1,17 +1,10 @@
 import React from 'react';
 
-// components
 
-import CommentForm from '../components/CommentForm';
-import CommentSingle from '../components/CommentSingle';
-import Button from '../components/Button';
-
-// images
-import blog_image from '../../assets/images/blog/blog-single-img-1-big.jpg';
 import blog_comment_img_1 from '../../assets/images/blog/comment-img-1.png';
 import blog_comment_img_2 from '../../assets/images/blog/comment-img-2.png';
 import blog_comment_img_3 from '../../assets/images/blog/comment-img-3.png';
-import pattern1 from '../../assets/images/patterns/pattern.png';
+
 
 const MyLife= () => {
     
