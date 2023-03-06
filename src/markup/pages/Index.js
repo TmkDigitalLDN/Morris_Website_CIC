@@ -326,10 +326,10 @@ const Index = () => {
                         <div className="row">
                         <div className="image-grid">
                         
-                     <img src={one} className="grid-image"/>
-                     <img src={two} className="grid-image"/>
-                     <img src={three} className="grid-image"/>
-                     <img src={four} className="grid-image"/>
+                     <img src={one} className="grid-image" alt="Morris The Connector - Quote 1 "/>
+                     <img src={two} className="grid-image" alt="Morris The Connector - Quote 2 "/>
+                     <img src={three} className="grid-image" alt="Morris The Connector - Quote 3"/>
+                     <img src={four} className="grid-image" alt="Morris The Connector - Quote 4" />
                       </div>
                         </div>
                     </div>
