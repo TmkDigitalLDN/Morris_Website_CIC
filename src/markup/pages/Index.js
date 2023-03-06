@@ -16,17 +16,14 @@ import intro_bg from "../../assets/images/intro-bg.jpg";
 import classic from "../../assets/images/classic.jpg";
 import emir from "../../assets/images/emir.jpg";
 import morris from "../../assets/images/morris-intro.jpg";
+import one from "../../assets/images/3.jpg";
+import two from "../../assets/images/4.jpg";
+import three from "../../assets/images/5.jpg";
+import four from "../../assets/images/6.jpg";
 
 const Index = () => {
 
-  const images = [
-    { src:"/src/assets/images/", alt: "Image 1" },
-    { src: "image2.jpg", alt: "Image 2" },
-    { src: "image3.jpg", alt: "Image 3" },
-    { src: "image4.jpg", alt: "Image 4" },
-    { src: "image5.jpg", alt: "Image 5" },
-    { src: "image6.jpg", alt: "Image 6" },
-  ]
+  
   const testimonials = [
     {
       testimony:
@@ -328,8 +325,11 @@ const Index = () => {
                     <div className="container page-bg-content">
                         <div className="row">
                         <div className="image-grid">
-                     
-                      
+                        
+                     <img src={one} className="grid-image"/>
+                     <img src={two} className="grid-image"/>
+                     <img src={three} className="grid-image"/>
+                     <img src={four} className="grid-image"/>
                       </div>
                         </div>
                     </div>
