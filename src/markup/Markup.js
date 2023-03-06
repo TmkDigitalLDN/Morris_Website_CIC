@@ -21,8 +21,8 @@ import Team from './pages/Team';
 import Careers from './pages/Careers';
 import Service from './pages/Service';
 import ServiceDetail from './pages/ServiceDetail';
-import Blog from './pages/Blog';
-import BlogDetail from './pages/BlogDetail';
+import Fundraisers from './pages/Fundraisers';
+import MyLife from './pages/MyLife';
 import Login from './pages/Login';
 import SignUp from './pages/SignUp';
 import Contact from './pages/Contact';
@@ -54,8 +54,8 @@ const Markup = () => {
                     <Route exact path="/careers" component={Careers} />
                     <Route exact path="/services" component={Service} />
                     <Route exact path="/services-detail" component={ServiceDetail} />
-                    <Route exact path="/blog" component={Blog} />
-                    <Route exact path="/blog-detail" component={BlogDetail} />
+                    <Route exact path="/fundraisers" component={Fundraisers} />
+                    <Route exact path="/my-life" component={MyLife} />
                     <Route exact path="/login" component={Login} />
                     <Route exact path="/signup" component={SignUp} />
                     <Route exact path="/contact" component={Contact} />

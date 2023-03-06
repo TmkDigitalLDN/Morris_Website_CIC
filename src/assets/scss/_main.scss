@@ -55,7 +55,8 @@ body {
 .main-wrapper {
     width: 100%;
     padding: 0;
-    border: var(--border) solid $primary-color;
+    border: var(--border) solid #034694;
+    ;
     > div {
         width: 100%;
     }
@@ -164,6 +165,7 @@ video lightbox
 page bg
 ****************************************/
 .page-bg {
+    margin-top: 100px;
     &-wrapper {
         position: relative;
         &-image {
@@ -205,6 +207,7 @@ icon box slider section
 }
 
 .pattern-bg {
+
     position: relative;
     &-image {
         content: '';
@@ -227,6 +230,7 @@ icon box slider section
     }
     &-content {
         position: relative;
+      
         z-index: 2;
     }
 }
@@ -465,6 +469,7 @@ hero 2 section
     &-image {
         position: relative;
         max-width: 100%;
+        object-fit: cover;
         .main {
             transform: translateX(6rem);
             max-width: 100%;
