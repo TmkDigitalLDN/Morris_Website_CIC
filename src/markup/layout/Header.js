@@ -1,3 +1,4 @@
+
 import { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { Link } from "react-router-dom";
@@ -15,7 +16,7 @@ function Header() {
 
   return (
     <header>
-      <img src={logo} alt="Logo" />
+      <img style={{zIndex:"100"}} src={logo} alt="Logo" />
       <button onClick={toggleMenu} className="nav-btn">
         {menuOpen ? <FaTimes style={{color: 'white'}} /> : <FaBars style={{color: 'white'}} />}
       </button>
